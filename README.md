@@ -25,7 +25,6 @@ HomeView - startsida
 ```sh
 HorsesView - sida som visar vilka hästar som finns i lager samt möjlighet att lägga till nya hästar/uppdatera och radera.
 ```
-```
 ```sh
 UpdateView - sida för att uppdatera enskild häst. 
 ```
@@ -36,4 +35,6 @@ AddHorses - komponent för att på HorsesView kunna lägga till nya hästar.
 ```sh
 Horse - sida för att skriva ut hästarna - dessa skrivs ut i ett article-element och har knapp för att radera samt uppdatera.
 ```
-
+```sh
+Header - komponent för Header med RouterLinks till undersidor och länk för att logga ut.
+```
